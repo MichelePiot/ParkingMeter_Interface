@@ -1,5 +1,4 @@
 # ParkingMeter_Interface
-A redesign of the Minneapolis parking meter interface paystation and meter improvements.
 
 **Duration: 5 weeks**
 
@@ -7,6 +6,7 @@ A redesign of the Minneapolis parking meter interface paystation and meter impro
 
 **Team Build**
 
+A redesign of the Minneapolis parking meter interface paystation and meter improvements.
 
 **Research**
 
