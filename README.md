@@ -1,6 +1,13 @@
 # ParkingMeter_Interface
 A redesign of the Minneapolis parking meter interface paystation and meter improvements.
 
+**Duration: 5 weeks**
+
+**Role: User Reseacher and User Experience Designer**
+
+**Team Build**
+
+
 **Research**
 
 The first step within this design process was to conduct user research to provide and understanding of the users' characteristics, behaviors, and goals for this specific product. 
