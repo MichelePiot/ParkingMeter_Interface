@@ -1,5 +1,8 @@
 # ParkingMeter_Interface
-A redesign of the Minneapolis parking meter interface paystation and meter improvements. 
+A redesign of the Minneapolis parking meter interface paystation and meter improvements.
+
+**Research**
+
 The first step within this design process was to conduct user research to provide and understanding of the users' characteristics, behaviors, and goals for this specific product. 
 
 To begin this design process, I conducted a set of exercises to determine initial thoughts and feelings about the current interface design. 
@@ -40,7 +43,7 @@ Secondary
 * Time sensitive
 * Technology savvy
 
-Development and Completion of Ideation Process
+**Development and Completion of Ideation Process**
 
 With the user research and personas identified there was a clear understanding of the needs, goals, desires, and problems with the current Minneapolis parking meter interface and pay station. 
 
@@ -58,7 +61,7 @@ Based off of the observations and pain points, it was concluded that the major p
 
 After developing which points are the most important (major pain points) the ideation process began with simplistic sketches and interface designs. 
 
-Ideation Process Sketches
+**Ideation Process Sketches**
 
 ![number1](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/Ideation1.png)
 
@@ -72,13 +75,13 @@ The final ideation for this interface was a compilation of all initial ideas/des
 
 ![final ideation](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/Final%20Ideation.png)
 
-Initial Design
+**Initial Design**
 
 From the final ideation an initial design for the parking meter, pay station, and ticket was created. 
 
 ![](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/Initial%20Design.png)
 
-Low Fidelity Research and Testing
+**Low Fidelity Research and Testing**
 
 With the initial design in mind, phase 1 testing began with focus groups discussions. A low fidelity paper prototype was created to be used for phase 2 testing. 
 
@@ -118,13 +121,13 @@ Phase 2 Testing
 
 During phase 2 testing, users were prompted to complete a process with an objective of paying for parking for 1 hour. Users were split into groups where one would be prompted to use cash while the other to use a credit card. This test prompted users to think out loud and speak freely throughout their process and interaction with the paper prototype. 
 
-Low fidelity paper prototype
+**Low fidelity paper prototype**
 
 ![](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/Low%20fidelity%20paper%20prototype.png)
 
 Results concluded with users generating positive feedback with not having to remember ticket number. Negative feedback such as lack of a back button, confusing time scroll, and unnecessary feedback allowed for improvements moving forward into the mid fidelity interface mockups. 
 
-Mid Fidelity Wireframes
+**Mid Fidelity Wireframes**
 
 Mid Fidelity wireframes created to show the basic ideation of the user interface for the parking meter pay station. 
 
@@ -136,7 +139,7 @@ Mid Fidelity wireframes created to show the basic ideation of the user interface
 
 ![4](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/Mid%20Fidelity%20Screen4.png)
 
-Mid Fidelity Testing
+**Mid Fidelity Testing**
 
 Phase 1 testing for mid fidelity prototype prompted users to complete a think out loud test on the initial wireframe interactive mockups. 
 
@@ -148,9 +151,9 @@ The results are as follows:
 * "Should be clearer that you need to grab a number at the pole next to your car first"
 * Found disconnect between user and ease of prototype 
  
- High Fidelity Prototype
+ **High Fidelity Prototype**
  
- High fidelity prototypes were created with an improved interface and design with an emphasis on usability for various types of users. 
+High fidelity prototypes were created with an improved interface and design with an emphasis on usability for various types of users. 
 
 High fidelity prototypes were created using Adobe XD software and can be interacted with [here](https://xd.adobe.com/view/db4b773c-af84-4669-999c-f09072c50a1e/).
 
@@ -162,7 +165,7 @@ High fidelity prototypes were created using Adobe XD software and can be interac
 
 ![4](https://github.com/MichelePiot/ParkingMeter_Interface/blob/master/ProjectFiles/High%20Fidelity%204.png)
 
-High Fidelity Testing
+**High Fidelity Testing**
 
 Testing for the high fidelity prototype was crucial to determine the if the necessary improvements were positively affecting users. 
 
@@ -180,7 +183,7 @@ The semantic differential test between the two prototypes included phrases that 
 
 Concluded results show positive indications that the high fidelity prototype gives more helpful and positive attitudes from users. 
 
-Final Prototype
+**Final Prototype**
 
 The final prototype includes a full remake of the pay station with a modern yet intuitive and useable design. 
 
