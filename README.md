@@ -2,7 +2,7 @@
 
 **Duration: 5 weeks**
 
-**Role: User Reseacher and User Experience Designer**
+**Role: Lead Designer and User Researcher**
 
 **Team Build**
 
