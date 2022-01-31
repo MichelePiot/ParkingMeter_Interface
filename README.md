@@ -1,10 +1,53 @@
-# ParkingMeter_Interface
+## Project Description
 
-**Duration: 5 weeks**
+The city of Minneapolis currently uses parking meters with an outdated and confusing design. The city implemented a pay station which includes pay by cash or card and allows users to choose their desired length of time. The current design of the parking meters includes a small and cramped screen, confusing layout, and ambiguous instructions.
 
-**Role: Lead Designer and User Researcher**
+<p align="center">
+ How could a redesign of the current parking meters improve the user experience?
+ </p>
+ 
+With a larger screen, a clean layout, and all over less ambiguity, users would be able to successfully utilize parking meters without hesitation or negative feelings. This would increase not only the use of parking meters, but would benefit businesses and potentially increase profits and return visits.
 
-**Team Build**
+<div align="center">
+  
+ ### **Role**
+  
+  User experience researcher 
+  
+  ---
+  
+ ### **Objectives** 
+    
+  Student perspective 
+  
+  Social Media Feed Integration 
+                             
+  Easily Accessed Community Events
+  
+  Simple Yet Engaging          
+  
+  Encourging for users to get involved 
+  
+  ---
+  
+ ### **Collaborations**
+  
+   Graphic Designer
+  
+   Product Designer
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A redesign of the Minneapolis parking meter interface paystation and meter improvements.
 
